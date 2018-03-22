@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "myBlinkLed"
+		},
+		{
+			"path": "myFirstParticle"
+		},
+		{
+			"path": "myTinker"
+		},
+		{
+			"path": "myWebLed"
+		}
+	],
+	"settings": {}
+}
